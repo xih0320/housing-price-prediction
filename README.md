@@ -33,6 +33,17 @@ Matplotlib
 Scikit-learn  
 Jupyter Notebook  
 
+## Results
+
+The regression model was trained to predict housing prices based on multiple housing features.
+
+Model performance was evaluated using common regression metrics such as:
+
+- Mean Squared Error (MSE)
+- R-squared score
+
+The model demonstrates the ability to capture relationships between housing features and housing prices.
+
 ## Project Structure
 
 ## Author
